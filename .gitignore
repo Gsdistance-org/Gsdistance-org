@@ -1,0 +1,9 @@
+﻿################################################################################
+# Bu .gitignore dosyası Microsoft(R) Visual Studio tarafından otomatik olarak oluşturulmuştur.
+################################################################################
+
+/.vs/Gsdistance-org.github.io/config
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/.vs/Gsdistance-org.github.io/v16/.suo
